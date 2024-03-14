@@ -1,0 +1,5 @@
+.idea
+/.vs
+/cpn/__pycache__
+*.pt
+*.0
